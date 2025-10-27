@@ -104,3 +104,4 @@ MIT License
 ## FAQ
 update
 Minor documentation update
+Added example usage section
