@@ -6,8 +6,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 - **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
 - **Environments**: Production & Development
-- **Student**: [YOUR NAME]
-- **Student ID**: [YOUR ID]
+- **Student**: Malla Charmi
+- **Student ID**: 23A91A6136
 
 ## Features
 
@@ -101,7 +101,9 @@ See `/docs` folder and `/docs/ai-integration.md`
 ## License
 
 MIT License
+
 ## FAQ
+
 update
 Minor documentation update
 Added example usage section
