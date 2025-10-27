@@ -2,11 +2,11 @@
 
 ## Student Information
 
-- Name: [YOUR NAME]
-- Student ID: [YOUR ID]
-- Repository: [YOUR REPO URL]
-- Date Started: [DATE]
-- Date Completed: [DATE]
+- Name: Malla Charmi
+- Student ID: 23A91A6136
+- Repository: https://github.com/mallacharmi/git-solved-23A91A6136.git
+- Date Started: 25-10-2025
+- Date Completed: 27-10-2025
 
 ## Task Summary
 
